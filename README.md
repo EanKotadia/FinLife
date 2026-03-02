@@ -1,6 +1,8 @@
-# FinLife – A Financial Literacy Life Simulator
-
+# FinLife
 FinLife is a browser-based, interactive life simulator that teaches financial literacy through meaningful choices, unexpected events, and realistic consequences — all presented in an engaging, game-like experience.
+By *Ean Kotadia – Class 10 E* | Financial Literacy Hackathon
+
+> Disclaimer: This was vibe coded and a proof of concept rather than purely functional.
 
 ---
 
