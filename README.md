@@ -5,6 +5,8 @@ By *Ean Kotadia – Class 10 E* | Financial Literacy Hackathon
 > Disclaimer: This was vibe coded and a proof of concept rather than purely functional.
 
 ## Play Now: [Finlife Game](https://fin-life-nine.vercel.app)
+
+## Yt Video: [Finlife Video](https://www.youtube.com/watch?v=8bPlQDwTB0c&t=15s)
 ---
 
 ## Tech Stack
